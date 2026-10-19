@@ -23,7 +23,7 @@ I’m studying Computer Science, Mathematics, and Geography, and looking for a *
 ## Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?icons=typescript,javascript,react,nextjs,nodejs,postgresql,vercel,git,github&theme=light" alt="TypeScript, JavaScript, React, Next.js, Node.js, PostgreSQL, Vercel, Git, and GitHub" />
+  <img src="https://skillicons.dev/icons?icons=typescript,react,nextjs,tailwind,nodejs,postgres,supabase,vercel,git,github&theme=light" alt="Technologies I use" />
 </p>
 
 **Currently learning:** Web application security and the OWASP Top 10. PortSwigger Web Security Academy is next on my learning list.
@@ -50,17 +50,17 @@ I enjoy reading and exploring theology - interests that keep me curious beyond t
   </a>
   <a href="https://github.com/joshuaargent">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>  
+  <a href="https://youtube.com/@joshua_argent">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube channel" />
   </a>
   <a href="https://instagram.com/joshua_argent">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram profile" />
   </a>
-  <a href="https://youtube.com/@joshua_argent">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube channel" />
-  </a>
-  <a href="https://www.tiktok.com/@joshua_argent">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white" alt="TikTok profile" />
-  </a>
   <a href="https://facebook.com/joshua_argent">
     <img src="https://img.shields.io/badge/Facebook-0866FF?style=flat&logo=facebook&logoColor=white" alt="Facebook profile" />
+  </a>  
+  <a href="https://www.tiktok.com/@joshua_argent">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white" alt="TikTok profile" />
   </a>
 </p>
