@@ -45,10 +45,22 @@ I enjoy reading and exploring theology - interests that keep me curious beyond t
   <a href="mailto:argentjackjoshua@outlook.com">
     <img src="https://img.shields.io/badge/Email-0D9488?style=flat&logo=gmail&logoColor=white" alt="Email Joshua" />
   </a>
-  <a href="https://www.linkedin.com/in/joshuaargent">
+  <a href="https://linkedin.com/in/joshuaargent">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
   <a href="https://github.com/joshuaargent">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  <a href="https://instagram.com/joshua_argent">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram profile" />
+  </a>
+  <a href="https://youtube.com/@joshua_argent">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube channel" />
+  </a>
+  <a href="https://www.tiktok.com/@joshua_argent">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white" alt="TikTok profile" />
+  </a>
+  <a href="https://facebook.com/joshua_argent">
+    <img src="https://img.shields.io/badge/Facebook-0866FF?style=flat&logo=facebook&logoColor=white" alt="Facebook profile" />
   </a>
 </p>
