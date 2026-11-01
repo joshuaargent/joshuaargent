@@ -16,7 +16,7 @@
 
 ---
 
-Hi, I’m Joshua. I started learning web development during the summer between Year 11 and Year 12. Since then I've built full-stack applications using Next.js, TypeScript, and Supabase, including CathoScroll, a Catholic learning platform with community features, authentication, and user profiles. I'm now learning about application security as I work toward a career in cyber security.
+Hi, I’m Joshua. I started learning web development during the summer between Year 11 and Year 12. Since then I've built full stack applications using Next.js, TypeScript, and Supabase, including CathoScroll, a Catholic learning platform with community features, authentication, and user profiles. I'm now learning about application security as I work toward a career in cyber security.
 
 I’m studying Computer Science, Mathematics, and Geography, and looking for a **cyber security apprenticeship** as I finish my A Levels.
 
