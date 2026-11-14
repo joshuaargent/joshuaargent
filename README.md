@@ -34,7 +34,6 @@ I’m studying Computer Science, Mathematics, and Geography, and looking for a *
 | --- | --- | --- |
 | [CathoScroll](https://github.com/joshuaargent/TS_CathoScroll) · [Live site](https://cathoscroll.vercel.app) | Next.js, React, TypeScript, Supabase | A Catholic learning platform featuring community discussion, profiles, bookmarks, progress tracking, search, categories, and educational content designed to make learning the faith more accessible and engaging. |
 | [Portfolio](https://github.com/joshuaargent/TS_Portfolio) · [Live site](https://joshuaargent.vercel.app) | Next.js, React, TypeScript | My portfolio for sharing projects, writing, and what I’m learning. It fetches repository information from GitHub. |
-| Social Media Scheduling Tool | Electron, Next.js | My Computer Science project, currently in development. I’m aiming to make it free and open source, with users bringing their own API keys. |
 
 ## Beyond coding
 
